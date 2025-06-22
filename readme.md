@@ -67,10 +67,7 @@ The project was created independently for educational and recreational purposes,
 
 ## 🌐 How to Run
 
-1. **Clone the repository:**
-```bash
-git clone https://github.com/seu-usuario/brick-breaker.git
-```
+1. **Clone the repository**
 
 2. **Open the index.html file in your browser.**
 
