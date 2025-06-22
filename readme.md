@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/technologies--3-blue?style=flat-square" />
 </p>
 
-<h3 align="center">Technologies and tools used:</h3>
+<h3 align="center">Technologies used:</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
